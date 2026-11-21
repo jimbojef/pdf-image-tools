@@ -1,5 +1,7 @@
 # pdf-image-tools
 
+![Send to menu with pdf2image and merge-image](docs/screenshot.png)
+
 Two small Windows tools for the Explorer right-click menu:
 
 - **pdf2image**: converts every page of one or more PDFs into PNG images (300 DPI).
